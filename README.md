@@ -10,7 +10,11 @@ In this assignment, we are helping an investor, who is interested in funding a s
 
 According to the statistics summary, we have the following findings. 
 
-![]()
+![](Dec.png)
+
+![](June.png)
+
+
 1) In both June and Dec dataset, the mean is almost equal to its median. In Dec’s data summary, the means is 71.0415 and the median is 71. In Dec data summary, the mean is 74.9441 and the median is 75. This finding shows that both June and Dec data are symmetric 
 2) In both June and Dec datasets, the min value and max value seem to be far away from the rest of the data. In Dec’s data summary, the min is 64 and the max is 85. In Dec data summary, the min is 56 and the max is 83. This finding shows that in both June and Dec weather data have a history to have extreme value (weather). 
 3) Dec data shows a larger standard deviation than June data. This means that the Dec data has greater spread from mean in the data than June data
